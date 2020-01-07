@@ -1,2 +1,2 @@
 # Content
-* [Basics](https://github.com/ruicsc/Learning-Notes/edit/master/Java/docs/Basics.md)
+* [Basics](https://github.com/ruicsc/Learning-Notes/blob/master/Java/docs/Basics.md)
